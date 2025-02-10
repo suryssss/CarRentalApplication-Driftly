@@ -36,7 +36,7 @@ function Search() {
 
     
     <Select>
-        <SelectTrigger className="w-[180px]">
+        <SelectTrigger className="w-[180px]" className='outline-none md:border-none w-full shadow-none text-lg'>
             <SelectValue placeholder="Theme" />
         </SelectTrigger>
         <SelectContent>
