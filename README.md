@@ -1,65 +1,80 @@
-# Car Rental Application - Driftly
+🚗 **🚀 DRIFTLY - YOUR ULTIMATE CAR RENTAL SOLUTION 🚀**
 
-## 🚗 About Driftly
-Driftly is a modern car rental application designed to provide seamless booking and rental experiences. It allows users to browse, book, and manage rental cars efficiently, while offering secure payment options and a user-friendly interface.
+Welcome to **Driftly**, a modern car rental platform that streamlines the process of booking and managing car rentals. Our goal is to provide a seamless and efficient rental experience for users.
 
-## 🔧 Tech Stack
-- **Frontend**: [React.js / Next.js / HTML, CSS, JavaScript] *(Modify based on your stack)*
-- **Backend**: [Node.js with Express / Django / Spring Boot] *(Modify based on your stack)*
-- **Database**: [PostgreSQL / MongoDB / MySQL] *(Modify based on your stack)*
-- **Authentication**: JWT / OAuth / Firebase Auth *(Modify if applicable)*
-- **Hosting**: AWS / Firebase / Vercel *(Modify if applicable)*
+## 📌 Project Overview
+Driftly is designed to make car rentals hassle-free by offering an intuitive UI and robust backend services. The project is currently under development, focusing on:
 
-## 📌 Features
-- 🚘 Browse available rental cars
-- 🏷️ View car details, pricing, and availability
-- 🔐 User authentication & profile management
-- 💳 Secure online payments
-- 📅 Book and manage reservations
-- 📍 Location-based car availability *(if applicable)*
+- ✅ User-friendly interface for car browsing and booking.
+- ✅ Secure authentication for customers.
+- ⏳ Smooth booking & payment integration (coming soon).
 
-## 📂 Project Structure
-```
-CarRentalApplication-Driftly/
-│-- frontend/   # Frontend code
-│-- backend/    # Backend API
-│-- database/   # Database schema & scripts
-│-- docs/       # Documentation & reports
-│-- .env        # Environment variables
-│-- package.json
-│-- README.md
-```
+## 🏗️ Project Status
+- ✅ Header completed
+- ⏳ Frontend development in progress *(Expected completion: 1 week)*
+- 📅 Progress presentation & documentation submission in 1 week
 
-## 🚀 Installation & Setup
-### Prerequisites
-- **Node.js & npm** (if using JavaScript)
-- **Python & Django** (if using Python)
-- **Database Setup** (PostgreSQL/MySQL/MongoDB configured)
+## 💡 Features (Planned & Implemented)
+- ✅ Browse available cars for rent
+- ✅ Filter cars based on user preferences
+- ✅ Responsive UI for mobile & desktop
+- 🚀 Secure authentication & user accounts *(Upcoming)*
+- 🚀 Integrated payment gateway for seamless transactions *(Upcoming)*
+- 🚀 Admin panel for managing bookings & users *(Upcoming)*
 
-### Steps to Run
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS, Vite
+- **Backend:** *(Planned)* Node.js, Express.js, MongoDB
+
+## 📦 Installation & Setup
+To run Driftly locally, follow these steps:
+
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/Driftly.git
+git clone https://github.com/yourusername/Driftly.git
 cd Driftly
 
 # Install dependencies
-npm install  # For frontend
-yarn install  # Alternative
+npm install
 
-# Start the development server
-npm start
+# Run the development server
+npm run dev
 ```
-*(Modify based on your actual setup)*
+The app should now be running at [http://localhost:3000](http://localhost:3000/) 🚀
 
-## 🎯 Future Enhancements
-- 📱 Mobile app version (React Native / Flutter)
-- 🚦 AI-based car recommendations
-- 📊 Admin dashboard for analytics
+## 📸 Screenshots *(To be added after frontend completion)*
+- 📌 Login Page – Coming soon
+- 📌 Car Selection Page – Coming soon
+- 📌 Booking Confirmation Page – Coming soon
 
-## 🏆 Contributors
-- **Sathwik** (Project Lead)
-- [Your Team Members]
+## 🏗️ Folder Structure
+```
+📁 Driftly/
+│── 📁 src/ (Frontend Source Code)
+│── 📁 public/ (Static Assets)
+│── 📁 docs/ (Project Documentation)
+│    │── Project-Documentation.md
+│    │── Architecture.md
+│── README.md (This File)
+│── package.json (Dependencies & Scripts)
+│── vite.config.js (Vite Configuration)
+```
+
+## 🚀 Contributing
+Contributions are welcome! If you'd like to contribute:
+
+1. 🍴 Fork the repo
+2. 🚀 Create a new branch
+3. 🔥 Make your changes and commit
+4. ✅ Push your changes and create a PR
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.
+
+## 📞 Contact & Support
+For any queries or collaboration, reach out to:
+- 📧 Email: sathwikreddydudipala@gmail.com, surya.rithwik2005@gmail.com, anumallarachith@gmail.com
+- 🌐 GitHub: [surysss](https://github.com/surysss), [sathiwk](https://github.com/sathiwk), [rachith27](https://github.com/rachith27)
+
+🔹 **Driftly - Simplifying Car Rentals, One Click at a Time!** 🔹
 
