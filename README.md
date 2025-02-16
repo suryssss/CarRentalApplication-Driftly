@@ -40,7 +40,7 @@ npm install
 # Run the development server
 npm run dev
 ```
-The app should now be running at [http://localhost:3000](http://localhost:3000/) 🚀
+The app should now be running at [http://localhost:5173](http://localhost:5173/) 🚀
 
 ## 📸 Screenshots *(To be added after frontend completion)*
 - 📌 Login Page – Coming soon
